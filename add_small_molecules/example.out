@@ -1,0 +1,665 @@
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to -253760517
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -311624579
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to 1996159999
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -1515262358
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to 1064755071
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -203572891
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to -285748497
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -16844550
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to 1337980714
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -579110785
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to 1535081415
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -1079124737
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to -276930578
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -268988417
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to -6881283
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to 787625883
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to -276824195
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -1358958673
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.004 nm, buffer size 0.004 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Replacement complete. Check the modified file: topol.top
+Setting the LD random seed to -201716247
+
+Generated 396495 of the 396495 non-bonded parameter combinations
+
+Generated 396495 of the 396495 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+This run will generate roughly 12 Mb of data
+Setting the LD random seed to -545391617
+
+Generated 398278 of the 398278 non-bonded parameter combinations
+
+Generated 398278 of the 398278 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'MTOP'
+
+turning H bonds into constraints...
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+
+The center of mass of the position restraint coord's is  4.343  4.407  8.680
+Analysing residue names:
+There are:   202      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.014 nm, buffer size 0.014 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.005 nm, buffer size 0.005 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+
+This run will generate roughly 17 Mb of data
+Note that major changes are planned in future for trjconv, to improve usability and utility.
+Select group for output
+Selected 0: 'System'
+Setting the LD random seed to -276825248
+
+Generated 536130 of the 536130 non-bonded parameter combinations
+
+Generated 536130 of the 536130 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'CBS'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'DPG'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'DBTH'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   243      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 80x80x120, spacing 0.113 0.119 0.118
+
+Estimate for the relative computational load of the PME mesh part: 0.06
+
+This run will generate roughly 22 Mb of data
+Setting the LD random seed to 1741683452
+
+Generated 538203 of the 538203 non-bonded parameter combinations
+
+Generated 538203 of the 538203 1-4 parameter combinations
+
+Excluding 5 bonded neighbours molecule type 'cPI30'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'ST166'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'CBS'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'DPG'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'DBTH'
+
+turning H bonds into constraints...
+Analysing residue names:
+There are:   243      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+Determining Verlet buffer for a tolerance of 0.001 kJ/mol/ps at 443 K
+
+Calculated rlist for 1x1 atom pair-list as 2.003 nm, buffer size 0.003 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 2.001 nm, buffer size 0.001 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 80x80x120, spacing 0.113 0.119 0.118
+
+Estimate for the relative computational load of the PME mesh part: 0.11
+
+This run will generate roughly 11 Mb of data
+adding 19 CBS molecules --> exact concentrations = 1.228
+adding 19 DPG molecules --> exact concentrations = 0.981
+adding 4 DBTH molecules --> exact concentrations = 0.678
+42
+ separation distance 3.000 too big for sudo atom 12. Reducing to 2.700
+ separation distance 2.700 too big for sudo atom 14. Reducing to 2.430
+ separation distance 2.430 too big for sudo atom 22. Reducing to 2.187
+ separation distance 2.187 too big for sudo atom 27. Reducing to 1.968
+ separation distance 1.968 too big for sudo atom 31. Reducing to 1.771
+[array([ 1.21737373,  0.51372352, 13.72655001]), array([ 4.1559154 ,  1.39533085, 13.89742921]), array([4.67047624, 5.52323006, 0.75696923]), array([ 1.74214251,  0.1607174 , 10.52674827]), array([ 2.85867292,  5.75259846, 10.65241346]), array([0.56589346, 3.63317632, 1.10676864]), array([6.19148112, 2.70759083, 9.07947076]), array([ 6.59335093,  0.9621773 , 11.96260078]), array([ 8.34424779,  5.23668528, 12.10148136]), array([ 7.03275124,  7.77699132, 13.88482883]), array([0.4250323 , 4.5159667 , 9.23094149]), array([6.82849157, 8.13338081, 9.82539602]), array([1.91008842, 6.21824818, 1.33986427]), array([0.06586945, 1.56123325, 8.65145027]), array([ 3.7865046 ,  3.62651318, 11.51080109]), array([ 6.1162497 ,  4.11518095, 13.27989217]), array([7.23749702, 1.84399175, 1.21162634]), array([ 3.45559599,  7.94450834, 11.56411521]), array([ 5.86666561,  6.70526551, 11.65681674]), array([ 1.58155798,  2.56403547, 11.41309847]), array([3.57555864, 8.32817723, 8.62354233]), array([3.98206759, 8.52372799, 0.80630874]), array([3.03137251, 1.82523471, 8.94908662]), array([4.93207651, 5.93559148, 8.49783137]), array([0.95768897, 7.00247195, 9.09744942]), array([ 1.02746226,  7.21406206, 12.13818141]), array([ 8.64009246,  9.1432375 , 11.43110548]), array([ 8.46790639,  2.15100573, 13.48353876]), array([ 8.18745761,  6.4268668 , 10.52185801]), array([ 3.25137607,  4.24235376, 13.58523602]), array([ 8.23115502,  2.90762476, 11.01850974]), array([5.63811339, 0.33152431, 1.24358386]), array([0.46085984, 7.42951496, 1.36118264]), array([ 3.85352181,  1.80510511, 12.15510632]), array([5.86243828, 3.73234574, 1.27375197]), array([3.82188133, 4.71905432, 9.45967036]), array([ 7.11008216,  4.98176129, 10.4227873 ]), array([2.51202225, 1.79619408, 0.46133887]), array([7.31431858, 6.00603422, 8.63554452]), array([6.6415058 , 5.32610318, 0.6309457 ]), array([4.06117272, 0.24872759, 9.95739685]), array([ 0.22029306,  4.1193595 , 13.41200712])]
+Writing file with sudo-atoms
+Exclusions not found for MTOP
+Executing void creation via gromacs
+Reading file with voids
+Inserting atoms in the voids
+executing ['cd cPI30--STESPD166/CBS1.20-DPG1.00-DBTH0.60/wacc', 'cp -r ../../../setupequil/* . ', 'bash loc.sh ']

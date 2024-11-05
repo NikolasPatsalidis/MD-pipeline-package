@@ -1,0 +1,68 @@
+integrator          =  steep	
+dt                  =   0.01
+nsteps              =  400
+nstcomm             =  100000
+nstxout             =  200
+nstvout             =  0
+nstfout             =  0
+nstlog              =  200
+nstenergy           =  200
+nstlist             =  10
+ns-type             =  grid
+rlist               =  2.0
+
+
+rcoulomb            =  2.0
+coulombtype         =  Reaction-field
+ewald_rtol          =  0.001
+
+fourierspacing      =  0.12
+pme-order           =  4
+
+rvdw                =  2.0
+;vdwtype = PME
+;vdw-modifier = Potential-Shift
+;ewald-rtol-lj = 0.001
+;lj-pme-comb-rule =   geometric; Lorentz-Berthelot
+DispCorr            =  EnerPres
+
+
+constraints         =  h-bonds
+
+
+pbc = xyz
+
+
+periodic_molecules  =  yes
+
+
+; temperature coupling 
+Tcoupl              =  v-rescale
+tc-grps		    =  system
+nsttcouple         = 10
+tau_t               =  0.1 
+ref_t               =  413
+verlet-buffer-tolerance = 1.e-3
+
+;annealing
+;annealing = single single
+;annealing-npoints = 2 2
+;annealing-time = 0  27000  0  27000
+;annealing-temp = 413 143  413 143
+
+; Anisotropic pressure coupling is now on
+pcoupl              =  Parrinello-Rahman
+pcoupltype         =  anisotropic
+nstpcouple         = 10
+tau_p               =  1000
+compressibility     =   2.5e-5 2.5e-5  2.5e-5  0 0 0 
+
+ref_p               =  1.01325  1.01325  1.01325  0 0 0
+
+
+
+;refcoord_scaling    =  com
+
+;freezegrps           =  ALU
+;freezedim            =   Y Y Y
+;energygrp-excl       =   ALU ALU
